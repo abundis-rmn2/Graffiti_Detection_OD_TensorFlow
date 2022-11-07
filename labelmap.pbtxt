@@ -1,0 +1,32 @@
+item {
+    id: 1
+    name: 'Caracter'
+}
+item {
+    id: 2
+    name: 'Tag'
+}
+item {
+    id: 3
+    name: 'Bomba'
+}
+item {
+    id: 4
+    name: 'Roller'
+}
+item{
+    id: 5
+    name: 'Wildstyle'
+}
+item {
+    id: 6
+    name: '3D'
+}
+item {
+    id: 7
+    name: 'Moniker'
+}
+item {
+    id: 8
+    name: 'S_Tren'
+}
