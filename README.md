@@ -1,5 +1,7 @@
 # Graffiti Detection: Object Detection with TensorFlow
 
+![Sample Exported Image](https://github.com/abundis-rmn2/graffiti_detection_OD_TF/blob/main/exported_images/2335768089991704881_25300513537_exported.jpg)
+
 This project identifies graffiti styles and general objects using TensorFlow and a custom-trained object detection model. It supports two approaches: running inference via Jupyter notebooks or as standalone Python scripts. Below are the details and usage instructions for the project.
 
 ## Features
